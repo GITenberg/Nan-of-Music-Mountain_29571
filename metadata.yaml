@@ -1,0 +1,42 @@
+_repo: Nan-of-Music-Mountain_29571
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wyeth, N. C. (Newell Convers)
+    aliases:
+    - Wyeth, Newell Convers
+    - Wyeth, N.C.
+    birthdate: 1882
+    deathdate: 1945
+    gutenberg_agent_id: '32841'
+    url: http://www.gutenberg.org/2009/agents/32841
+    wikipedia: http://en.wikipedia.org/wiki/N._C._Wyeth
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spearman, Frank H. (Frank Hamilton)
+    alias: Spearman, Frank Hamilton
+    birthdate: 1859
+    deathdate: 1937
+    gutenberg_agent_id: '25772'
+    url: http://www.gutenberg.org/2009/agents/25772
+    wikipedia: http://en.wikipedia.org/wiki/Frank_H._Spearman
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2009-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29571'
+  lccn: '16008460'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+title: Nan of Music Mountain
+url: http://www.gutenberg.org/ebooks/29571
